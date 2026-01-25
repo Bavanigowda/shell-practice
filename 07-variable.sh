@@ -2,8 +2,6 @@
 
 Date =$date
 
-echo "timestamp executed =$date"
-
 Start_Time=$(date +%s)
 
 Sleep 10 &
