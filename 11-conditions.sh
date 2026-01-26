@@ -7,7 +7,7 @@ if [ $NUMBER -lt 10 ]; then
 elif [ $NUMBER -eq 10]; then 
    echo "given number $NUMBER is equal to 10"
 else
-   echo "given number $NUMBER is greater than to 10"
+   echo "given number $NUMBER is greater than 10"
 fi
 
 #[ $NUMBER -lt 10 ] = here after started the braces it should have 
